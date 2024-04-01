@@ -16,6 +16,8 @@
 # Hi 👋, I'm Ardi Masyrofi
 ## Data & AI Enthusiast
 
+I am using various tools and programming languages to manage data and also to build a machine learning model. I am still in the learning process to become an expert in the field of data and Machine Learning.
+
 ### 📊 Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardimasyrofi&layout=compact&theme=merko)](https://github.com/ardimasyrofi/github-readme-stats)
